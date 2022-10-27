@@ -1,7 +1,7 @@
 function isOdd(n) {
 if (n%2!==0) {
-    return false
+    return true
 }
-return true;
+return false;
 }
 console.log(isOdd(3)); 
