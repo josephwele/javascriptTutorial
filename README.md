@@ -1,7 +1,7 @@
 # javascriptTutorial
 ### new joiner steps to follow 
 
-- **step1: set upstream and origin**
+- **step1: set upstream and origin** git remote add url
 - **step2: git checkout upstream/development(make sure you have the latest code from development so use git pull)**
 - **step3: git checkout -b my_branch_name**
 - **step4: make changes on my_branch_name**
