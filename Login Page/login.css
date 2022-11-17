@@ -1,0 +1,40 @@
+body {  
+    background-color: white;  
+    background: linear-gradient(120deg,#668B8B, #388E8E,#70DBDB);
+    height: 100vh;
+    overflow: hidden;
+  }  
+
+.center{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 300px;
+  background: white;
+}
+
+  
+.center h1{
+  text-align:center;
+  padding: 0 0 20px 0;
+
+}
+
+
+.center form{
+  padding: 0 30px;
+}
+       
+
+input[type="button"]{
+  padding: 0 50px;
+  width: 50%;
+  position: absolute;
+  transform: translate(40%, 40%);
+  cursor:pointer;
+  height: 25px;
+  background: #16d3d3;
+}
+
